@@ -1,0 +1,7 @@
+broker_url: tcp://BROKER_IP:1883
+broker_username: username
+broker_password: password
+frigate_url: http://FRIGATE_IP:5000
+telegram_token: telegram_token
+telegram_chat_id: telegram_chat_id
+data_folder: /data
